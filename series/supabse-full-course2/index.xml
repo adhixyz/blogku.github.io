@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supabase Full Course2 on jhondoe</title>
+    <link>https://jhondoe.space/series/supabse-full-course2/</link>
+    <description>Recent content in Supabase Full Course2 on jhondoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jhondoe@gmail.com (John Doe)</managingEditor>
+    <webMaster>jhondoe@gmail.com (John Doe)</webMaster>
+    <lastBuildDate>Mon, 23 Jan 2023 22:03:23 +0700</lastBuildDate><atom:link href="https://jhondoe.space/series/supabse-full-course2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Chapter</title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>First Chapter2</title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter2/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Second Chapter </title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter3/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Second Chapter2</title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter4/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artikel 5</title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter5/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artikel 6</title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter6/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artikel 7</title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter7/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter7/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Artikel 8</title>
+      <link>https://jhondoe.space/series/supabse-full-course2/first-chapter8/</link>
+      <pubDate>Mon, 23 Jan 2023 22:03:23 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/series/supabse-full-course2/first-chapter8/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

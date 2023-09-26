@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitemap on jhondoe</title>
+    <link>https://jhondoe.space/tags/sitemap/</link>
+    <description>Recent content in Sitemap on jhondoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jhondoe@gmail.com (John Doe)</managingEditor>
+    <webMaster>jhondoe@gmail.com (John Doe)</webMaster>
+    <lastBuildDate>Sat, 23 Sep 2023 20:18:52 +0700</lastBuildDate><atom:link href="https://jhondoe.space/tags/sitemap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengatasi Masalah Tidak Dapat Mengambil Peta Situs</title>
+      <link>https://jhondoe.space/post/sitemap-couldnt-fetch/</link>
+      <pubDate>Sat, 23 Sep 2023 20:18:52 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/post/sitemap-couldnt-fetch/</guid>
+      <description>Beberapa waktu yang lalu saya menemukan sebuah pertanyaan dari member grup Blogger Indonesia di Facebook, yang mengalami masalah saat submit sitemap atau peta situs.</description>
+    </item>
+    
+  </channel>
+</rss>

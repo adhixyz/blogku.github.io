@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippet ⚒️ on jhondoe</title>
+    <link>https://jhondoe.space/snippet/</link>
+    <description>Recent content in Snippet ⚒️ on jhondoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jhondoe@gmail.com (John Doe)</managingEditor>
+    <webMaster>jhondoe@gmail.com (John Doe)</webMaster>
+    <lastBuildDate>Tue, 27 Oct 2020 06:04:12 +0700</lastBuildDate><atom:link href="https://jhondoe.space/snippet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snippet Example</title>
+      <link>https://jhondoe.space/snippet/example-snippet/</link>
+      <pubDate>Tue, 27 Oct 2020 06:04:12 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/snippet/example-snippet/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>atomic on jhondoe</title>
+    <link>https://jhondoe.space/tags/atomic/</link>
+    <description>Recent content in atomic on jhondoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jhondoe@gmail.com (John Doe)</managingEditor>
+    <webMaster>jhondoe@gmail.com (John Doe)</webMaster>
+    <lastBuildDate>Thu, 29 Oct 2020 10:22:10 +0700</lastBuildDate><atom:link href="https://jhondoe.space/tags/atomic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example Content with Header Image</title>
+      <link>https://jhondoe.space/post/content-with-header/</link>
+      <pubDate>Thu, 29 Oct 2020 10:22:10 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/post/content-with-header/</guid>
+      <description>How to config add header? # You must add images field array and paste image url in array.</description>
+    </item>
+    
+    <item>
+      <title>Example Disable ToC (Table Of Content)</title>
+      <link>https://jhondoe.space/post/content-without-toc/</link>
+      <pubDate>Thu, 29 Oct 2020 10:22:10 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/post/content-without-toc/</guid>
+      <description>How to configure disable toc? # You need to add the toc:false .</description>
+    </item>
+    
+    <item>
+      <title>Example with ToC (Table Of Content)</title>
+      <link>https://jhondoe.space/post/content-with-toc/</link>
+      <pubDate>Thu, 29 Oct 2020 10:22:10 +0700</pubDate>
+      <author>jhondoe@gmail.com (John Doe)</author>
+      <guid>https://jhondoe.space/post/content-with-toc/</guid>
+      <description>How to configure enable toc? # By default toc is enable, and And if you want to make sure the toc is active, you need to add the toc:true .</description>
+    </item>
+    
+  </channel>
+</rss>
